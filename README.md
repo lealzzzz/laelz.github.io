@@ -63,7 +63,7 @@
 </head>
 <body>
     <div id="content">
-        <h2 id="question">Pwede kaba ligawan?</h2>
+        <h2 id="question">Can I court you?</h2>
         <button id="yesButton">YES</button>
         <button id="noButton">NO</button>
         <p id="message"></p>
